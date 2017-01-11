@@ -1,4 +1,4 @@
-package guiPractice.component;
+package guiPractice.components;
 
 public class asdasdasdwasd {
 
